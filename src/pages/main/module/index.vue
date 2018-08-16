@@ -3,6 +3,7 @@
 </style>
 <template>
     <div>
+        <img src="../../../assets/logo.png" alt="">
         test 页面
     </div>
 </template>

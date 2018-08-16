@@ -10,12 +10,12 @@ export default new VueRouter({
     mode:"history",
     routes:[
         {
-            path:'sec',
+            path:'/index2.html/',
             component:App,
             children:[
                 {
-                   path:'/test',
-                   name:'index',
+                   path:'',
+                   name:'index1',
                    component:Index1 
                 }
             ]
